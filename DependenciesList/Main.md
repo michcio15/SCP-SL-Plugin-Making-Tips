@@ -17,11 +17,20 @@ This will **NOT** be a tutorial on how to do it yourself. It will be more of a l
 
 # Server Specific Settings
 
-| Name                | Link                                | Description from the repo                                                                               | Remarks                                                            |
-| ------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Actually Simple SSS | https://github.com/Someone-193/ASS  | ASS is a plugin that fundamentally reworks base game ServerSpecificSettings to include better features. | This plugin uses more of base game approach like lists and events. |
-| SecretAPI           | http://github.com/obvEve/SecretAPI/ | SecretAPI is a plugin that extends LabAPI by providing extra features to help devs.                     | This plugin uses object like approach to settings so the whole setting like keybind is encapsulated inside and a class inherting from an base.                                                                   |
+| Name                | Link                                | Description from the repo                                                                               | Remarks                                                                                                                                        |
+| ------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actually Simple SSS | https://github.com/Someone-193/ASS  | ASS is a plugin that fundamentally reworks base game ServerSpecificSettings to include better features. | This plugin uses more of base game approach like lists and events.                                                                             |
+| SecretAPI           | http://github.com/obvEve/SecretAPI/ | SecretAPI is a plugin that extends LabAPI by providing extra features to help devs.                     | This plugin uses object like approach to settings so the whole setting like keybind is encapsulated inside and a class inherting from an base. |
 
+# Hints
+
+>[!WARNING]
+>You only use one they are not compatible
+
+| Name            | Link                                           | Description from the repo                                                                                                                    |
+| --------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| RueI            | https://github.com/pawslee/RueI                | RueI is a hint framework, designed to be the definitive way to display multiple hints at once.                                               |
+| HintServiceMeow | https://github.com/MeowServer/HintServiceMeow/ | HintServiceMeow (HSM) is a SCP: Secret Laboratory framework that allows plugins to display text on a selected position on a player's screen. |
 
 
 ---

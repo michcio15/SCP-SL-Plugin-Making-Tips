@@ -9,4 +9,5 @@ This repo's main task is to help developers anwser most asked questions.
 - [How to play audio](DependenciesList/Main.md#audio)
 - [How to spawn maps / schematics](DependenciesList/Main.md#schematics--maps)
 - [How to make advanced SSS](DependenciesList/Main.md#server-specific-settings)
+- [How to display more than one hint](DependenciesList/Main.md#hints)
 - [How to get players item position](Itemposition/itemposition.md)

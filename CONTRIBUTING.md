@@ -1,0 +1,1 @@
+Contributing is welcome and even encouraged. So well make a pr and make it good.

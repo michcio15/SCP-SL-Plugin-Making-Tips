@@ -3,10 +3,10 @@ This will **NOT** be a tutorial on how to do it yourself. It will be more of a l
 
 
 # Audio
-| Name                | Link                                          | Description from the repo                                                                                                                                                           |
-| ------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **SecretLabNAudio** | https://github.com/Axwabo/SecretLabNAudio/    | An advanced audio player API for SCP: Secret Laboratory using NAudio                                                                                                                |
-| **AudioPlayerApi**  | https://github.com/Killers0992/AudioPlayerApi | AudioPlayerApi is a dependency for plugins that provides advanced capabilities for managing and playing audio clips, complete with support for spatial audio and multiple speakers. |
+| Name                | Link                                          | Description from the repo                                                                                                                                                           | Example Usage
+| ------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| **SecretLabNAudio** | https://github.com/Axwabo/SecretLabNAudio/    | An advanced audio player API for SCP: Secret Laboratory using NAudio                                                                                                                | [Link](Audio/SecretLabNAudioUsage.md)|
+| **AudioPlayerApi**  | https://github.com/Killers0992/AudioPlayerApi | AudioPlayerApi is a dependency for plugins that provides advanced capabilities for managing and playing audio clips, complete with support for spatial audio and multiple speakers. | [Link](Audio/AudioPlayerApiUsage.md)
 
 # Schematics / Maps
 

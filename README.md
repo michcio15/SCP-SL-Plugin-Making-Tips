@@ -7,6 +7,7 @@ This repo's main task is to help developers anwser most asked questions.
 # Table of contents
 - [How to use harmony](Harmony/HarmonyMain.md)
 - [How to publicize assembly](Publicizing/publicizing.md)
+- [How to read decompiled NetworkBehaviours](Mirror/HowToReadDecompiledNetworkkBehaviour.md)
 - [How to get players item position](Itemposition/itemposition.md)
 - [How to play audio](DependenciesList/Main.md#audio)
 - [How to spawn maps / schematics](DependenciesList/Main.md#schematics--maps)

@@ -19,8 +19,6 @@ public class ExampleNetworkBehaviour : NetworkBehaviour
     }
 
     [Command]
-    // Here we as a client tell the server that we have show a weapon
-    // This code will be executed on the server
     public void CmdShoot()
     {
         Debug.Log("Hello server, i have shot a weapon");
@@ -28,8 +26,6 @@ public class ExampleNetworkBehaviour : NetworkBehaviour
     }
 
     [ClientRpc]
-    // Here we send all the clients (because of [ClientRpc]) this owner has shot x amount of bullets
-    // This code will be executed on all clients
     public void RpcShot(int amount)
     {
         Debug.Log($"Client has shot {amount} bullets");
@@ -42,7 +38,7 @@ public class ExampleNetworkBehaviour : NetworkBehaviour
     }
 }
 ```
-Right now we don't about the comments. Now let's take a look at the code decompiled by dnSpy:
+Now let's take a look at the code decompiled by dnSpy:
 ```cs
 using System;
 using System.Runtime.CompilerServices;
